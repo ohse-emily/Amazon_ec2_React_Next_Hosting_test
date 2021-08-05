@@ -8,9 +8,9 @@ const Index = () => {
                 <title>Blog</title>
             </Head>
             <BlogLayout>
-                Hello Next
+                Hello Next asdf
                 <div>
-                    <img src="/cat.jpg"/> 
+                    <img src="../cat.jpg"/> 
                 </div>
             </BlogLayout>
         </>
