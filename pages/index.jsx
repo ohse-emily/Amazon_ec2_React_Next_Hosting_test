@@ -10,7 +10,7 @@ const Index = () => {
             <BlogLayout>
                 Hello Next
                 <div>
-                    {/* <img src="/cat.jpg"/>  */}
+                    <img src="/cat.jpg"/> 
                 </div>
             </BlogLayout>
         </>
