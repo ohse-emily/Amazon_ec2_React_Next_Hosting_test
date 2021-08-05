@@ -1,6 +1,6 @@
 import FormLayout from "../components/FormLayout"
 import Head from 'next/head'
-import useInput from '../hooks/useInput'
+import useInput from '../hooks/userInput'
 import {useState} from 'react'
 
 const Join = () => {

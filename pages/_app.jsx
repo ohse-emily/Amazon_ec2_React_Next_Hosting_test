@@ -8,7 +8,7 @@ import wrapper from '../store/configureStore'
 
 const App = ({ Component }) => {
 
-    const globalContext = useContext(Store) // context에 있는 값을 그대로 빼와서 담음 
+    const globalContext = useContext(Store) // context에 있는 값을 그대로 빼와서 담음  
 
     const [state, dispatch] = useReducer(reducer, globalContext)
 
