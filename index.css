@@ -1,0 +1,16 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+ul,li{
+    list-style:none;
+}
+
+a{
+    color:darkcyan;
+}
+
+body{
+    font-family: 'Black Han Sans', sans-serif;
+}
